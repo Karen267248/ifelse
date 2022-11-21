@@ -18,6 +18,7 @@ public class Principal {
         }
         if (avisarFamilia) {
             System.out.println("avisar a la familia");
+
         }
     }
 }
